@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:textSize="12sp"
+        android:text="A portion of ownership in a company. Buying and selling shares, under TD's guidance, can result in long-term profitability and stability. "
+
+        >
+
+    </TextView>
+
+</LinearLayout>
